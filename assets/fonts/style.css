@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'craftmincho';
+   font-display: swap;
+   src: url('craftmincho/font.ttf');
+}
+@font-face {
+   font-family: 'Honoka_Shin_Mincho_L';
+   font-display: swap;
+   src: url('Honoka_Shin_Mincho_L/font.ttf');
+}
